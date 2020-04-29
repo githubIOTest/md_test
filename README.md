@@ -12,3 +12,5 @@
 ![1](./YOLO/YOLO10.png)
 ![1](./YOLO/YOLO11.png)
 ![1](./YOLO/YOLO12.png)
+
+<img src='./YOLO/3Dgraph.PNG' width='500' height=500 />
